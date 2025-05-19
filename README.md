@@ -1,5 +1,7 @@
 # Murdle Solver
 
+It is **very** recommended that you check out [the companion blog post](https://medium.com/@evangseabrook/using-generative-ai-to-solve-puzzles-b68047df17da) for context.
+
 This repo contains two complementary apps ([adk-svc](./adk-svc/) and [android-app](./android-app/)) that are able to solve (most of) the jumbled word puzzles in [Murdle: Volume 1](https://www.amazon.ca/Murdle-Elementary-Impossible-Mysteries-Deduction/dp/1250892317/ref=sr_1_1?dib=eyJ2IjoiMSJ9.r5bGp0JssPfYplrmNFDXmbISWlyiFdoXoh8d62YyWi17DJxtZGBpfSm138DKeeNEleHb6Sp1w0TFcV8ZEcTgqx9Ydev1sGgKNxW9FWD1PABofWwx3H3gBKZ9T14nLU8wmz9xkycWffnVZKR4DqwhTq60dT8EoNmXTQ-BrDr8Zr9ZIBAplY6YyLCpXkKoykQG3romH3hBQXueHkuFWTdPe6bXxXPtawYSBYd2II9by8u0zgIhfQRpB_Pvj-koaFSGh59U402V0fD1XN94KQnHer44YZAgtp0SsmP_q0h5S4w.kg1OEmnML6MVDzja4iuQ8F_2SdTC4MG-QLgOyRfEtIw&dib_tag=se&hvadid=657154094381&hvdev=c&hvlocphy=9001618&hvnetw=g&hvqmt=e&hvrand=6763604865215210698&hvtargid=kwd-2085859184561&hydadcr=325_1014995618&keywords=murder+volume+1&mcid=fd372daa4d1c370ca91fdd5a0f74db73&qid=1747611832&sr=8-1).
 
 ## Building and Running
